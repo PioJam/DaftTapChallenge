@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DaftTapChallengeApplication</string>
+    <string name="userInDialog">User</string>
+    <string name="playButton">PLAY</string>
+    <string name="textTitle">DaftTap Challenge</string>
+    <string name="nameInResults">Name</string>
+    <string name="scoreInResults">0</string>
+    <string name="dateInResults">yyyy/MM/dd HH:mm:ss</string>
+    <string name="scoreText">0</string>
+</resources>
